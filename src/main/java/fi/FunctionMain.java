@@ -8,5 +8,6 @@ public class FunctionMain {
         yunhoInterface.defaultMethod();
 
         FunctionalInterfaceExample.staticMethod();
+        System.out.println("test");
     }
 }
