@@ -15,13 +15,7 @@ public class StudentComparable implements Comparable<StudentComparable> {
 
     @Override
     public int compareTo(StudentComparable o) {
-        if (this.age > o.age) {
-            return 1;
-        } else if (this.age == o.age) {
-            return 0;
-        } else {
-            return -1;
-        }
+       return Integer.compare(this.age, o.age);
     }
 
     @Override
