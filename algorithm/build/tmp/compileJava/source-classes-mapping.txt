@@ -1,4 +1,6 @@
-sort/bubble/BubbleSort.java
- sort.bubble.BubbleSort
-sort/bubble/SelectionSort.java
- sort.bubble.SelectionSort
+sort/SelectionSort.java
+ sort.SelectionSort
+sort/BubbleSort.java
+ sort.BubbleSort
+sort/InsertSort.java
+ sort.InsertSort
